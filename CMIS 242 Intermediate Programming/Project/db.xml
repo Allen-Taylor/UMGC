@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Media>
+    <MovieDVDs>
+        <MovieDVD>
+            <id>movie_dvd_1</id>
+            <title>Avatar</title>
+            <year>2009</year>
+            <size>500</size>
+            <available>false</available>
+        </MovieDVD>
+        <MovieDVD>
+            <id>movie_dvd_2</id>
+            <title>I Am Legend</title>
+            <year>2007</year>
+            <size>500</size>
+            <available>false</available>
+        </MovieDVD>
+        <MovieDVD>
+            <id>movie_dvd_3</id>
+            <title>300</title>
+            <year>2006</year>
+            <size>500</size>
+            <available>true</available>
+        </MovieDVD>
+        <MovieDVD>
+            <id>movie_dvd_4</id>
+            <title>The Avengers</title>
+            <year>2012</year>
+            <size>500</size>
+            <available>true</available>
+        </MovieDVD>
+        <MovieDVD>
+            <id>movie_dvd_5</id>
+            <title>Interstellar</title>
+            <year>2014</year>
+            <size>500</size>
+            <available>true</available>
+        </MovieDVD>
+    </MovieDVDs>
+    <MusicCDs>
+        <MusicCD>
+            <id>music_cd_1</id>
+            <title>Pink Floyd - Dark Side of the Moon</title>
+            <year>1973</year>
+            <length>43</length>
+            <available>true</available>
+        </MusicCD>
+        <MusicCD>
+            <id>music_cd_2</id>
+            <title>The Beatles - Sgt. Pepper's Lonely Hearts Club Band</title>
+            <year>1967</year>
+            <length>46</length>
+            <available>true</available>
+        </MusicCD>
+        <MusicCD>
+            <id>music_cd_3</id>
+            <title>Led Zeppelin - Led Zeppelin IV</title>
+            <year>1971</year>
+            <length>55</length>
+            <available>true</available>
+        </MusicCD>
+        <MusicCD>
+            <id>music_cd_4</id>
+            <title>Michael Jackson - Thriller</title>
+            <year>1982</year>
+            <length>60</length>
+            <available>true</available>
+        </MusicCD>
+        <MusicCD>
+            <id>music_cd_5</id>
+            <title>Queen - A Night at the Opera</title>
+            <year>1975</year>
+            <length>45</length>
+            <available>true</available>
+        </MusicCD>
+    </MusicCDs>
+    <EBooks>
+        <EBook>
+            <id>ebook_1</id>
+            <title>The Catcher in the Rye</title>
+            <year>1951</year>
+            <chapters>26</chapters>
+            <available>true</available>
+        </EBook>
+        <EBook>
+            <id>ebook_2</id>
+            <title>Dune</title>
+            <year>1965</year>
+            <chapters>26</chapters>
+            <available>true</available>
+        </EBook>
+        <EBook>
+            <id>ebook_3</id>
+            <title>The Hobbit</title>
+            <year>1937</year>
+            <chapters>19</chapters>
+            <available>true</available>
+        </EBook>
+        <EBook>
+            <id>ebook_4</id>
+            <title>I Am Legend</title>
+            <year>1954</year>
+            <chapters>21</chapters>
+            <available>true</available>
+        </EBook>
+        <EBook>
+            <id>ebook_5</id>
+            <title>Nineteen Eighty-Four</title>
+            <year>1949</year>
+            <chapters>17</chapters>
+            <available>true</available>
+        </EBook>
+    </EBooks>
+</Media>
