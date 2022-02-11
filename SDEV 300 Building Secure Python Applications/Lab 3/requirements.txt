@@ -1,0 +1,5 @@
+PIL 
+requests
+matplotlib
+seaborn 
+pandas 
